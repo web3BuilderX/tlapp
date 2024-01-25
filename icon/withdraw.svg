@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="22px" height="21px" viewBox="0 0 22 21" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Group 19</title>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-19" transform="translate(1.000000, 1.000000)">
+            <g id="Group-18" transform="translate(10.000000, 13.134511) rotate(90.000000) translate(-10.000000, -13.134511) translate(3.634511, 9.134511)">
+                <polygon id="Path-10" fill="#FFFFFF" points="8.73097864 8 8.73097864 0 12.7309786 3.5"></polygon>
+                <polyline id="Path-11" stroke="#FFFFFF" stroke-width="2" points="0 3.78351383 7.30769231 3.78351383 10 3.78351383"></polyline>
+            </g>
+            <path d="M6.5,13 L4,13 L2,13 C0.8954305,13 1.3527075e-16,12.1045695 0,11 L0,2 C-1.3527075e-16,0.8954305 0.8954305,2.02906125e-16 2,0 L18,0 C19.1045695,-2.02906125e-16 20,0.8954305 20,2 L20,11 C20,12.1045695 19.1045695,13 18,13 L16,13 L16,13 L14,13" id="Path-14" stroke="#FFFFFF" stroke-width="2"></path>
+        </g>
+    </g>
+</svg>
