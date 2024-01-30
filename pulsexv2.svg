@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="100px" height="119px" viewBox="0 0 100 119" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>pulsexv2</title>
+    <defs>
+        <linearGradient x1="14.3231167%" y1="0%" x2="68.7333006%" y2="111.597742%" id="linearGradient-1">
+            <stop stop-color="#FF0000" offset="0.0863882212%"></stop>
+            <stop stop-color="#FF0033" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="82.7915486%" y1="0%" x2="31.5594729%" y2="107.068238%" id="linearGradient-2">
+            <stop stop-color="#00FF99" offset="0%"></stop>
+            <stop stop-color="#00FF55" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="pulsexv2" fill-rule="nonzero">
+            <path d="M63.6310345,74.9147695 L85.4809437,113.00458 L60.7252557,113.00458 C59.10109,113.00458 57.6008044,112.135513 56.7914806,110.725872 L56.7914806,110.725872 L49.9065336,98.7338458 L63.6310345,74.9147695 Z M24.8045826,11.8091603 C26.4293515,11.8091603 27.9300984,12.6788674 28.7391985,14.089334 L28.7391985,14.089334 L42.9500907,38.8626748 L29.2165154,62.6971939 L0,11.8091603 L24.8045826,11.8091603 Z" id="Combined-Shape-Copy" fill="url(#linearGradient-1)"></path>
+            <path d="M33.7691944,114.468925 L100,0 L100,0 L77.5498374,0 C74.3088958,0 71.3139786,1.73030107 69.6926136,4.53947867 L3.62976407,119 L3.62976407,119 L25.9168267,119 C29.154304,119 32.1465675,117.273365 33.7691944,114.468925 Z" id="Path-4-Copy-2" fill="url(#linearGradient-2)"></path>
+        </g>
+    </g>
+</svg>
