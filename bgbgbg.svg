@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1263px" height="693px" viewBox="0 0 1263 693" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Group 2</title>
+    <defs>
+        <linearGradient x1="50%" y1="2.00480692%" x2="51.6018438%" y2="100.628604%" id="linearGradient-1">
+            <stop stop-color="#0AB2B1" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#079897" offset="39.3684441%"></stop>
+            <stop stop-color="#047A79" stop-opacity="0" offset="76.0161713%"></stop>
+            <stop stop-color="#047A79" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="51.1359336%" y2="102.743411%" id="linearGradient-2">
+            <stop stop-color="#0AB2B1" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#079897" offset="39.3684441%"></stop>
+            <stop stop-color="#047A79" stop-opacity="0" offset="76.0161713%"></stop>
+            <stop stop-color="#047A79" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="11.2332602%" x2="51.6018438%" y2="90.8938019%" id="linearGradient-3">
+            <stop stop-color="#0AB2B1" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#079897" offset="39.3684441%"></stop>
+            <stop stop-color="#047A79" stop-opacity="0" offset="76.0161713%"></stop>
+            <stop stop-color="#047A79" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-2">
+            <rect id="Rectangle" x="0" y="0" width="1263" height="693"></rect>
+            <g id="Group" transform="translate(5.000000, 19.590086)" stroke-linecap="square" stroke-width="0.5">
+                <polyline id="Line" stroke="url(#linearGradient-1)" points="858 99.4099142 1066.57595 303.761541 1253 486.409914"></polyline>
+                <polyline id="Line" stroke="url(#linearGradient-2)" points="1.52655666e-15 214.409914 185.870214 435.130793 352 632.409914"></polyline>
+                <polyline id="Line" stroke="url(#linearGradient-3)" transform="translate(575.000000, 326.909914) rotate(5.000000) translate(-575.000000, -326.909914) " points="236 28.4099142 594.011378 343.650021 914 625.409914"></polyline>
+            </g>
+        </g>
+    </g>
+</svg>
